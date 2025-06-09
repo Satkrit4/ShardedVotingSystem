@@ -13,7 +13,6 @@ A decentralized voting system implementing blockchain sharding for enhanced scal
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Publications](#publications)
 
 ## 🌟 Overview
