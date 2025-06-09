@@ -2,8 +2,6 @@
 
 A decentralized voting system implementing blockchain sharding for enhanced scalability and performance.
 
-![Project Banner](docs/images/banner.png)
-
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -20,9 +18,7 @@ A decentralized voting system implementing blockchain sharding for enhanced scal
 
 ## 🌟 Overview
 
-The Sharded Voting System is a blockchain-based voting application that implements sharding technology to improve scalability and performance. This system allows for secure, transparent, and efficient voting processes across multiple regions while maintaining the integrity of the blockchain.
-
-![System Overview](docs/images/system-overview.png)
+The Sharded Voting System is a blockchain-based voting application that implements sharding technology to improve scalability and performance. This system allows for secure, transparent, and efficient voting processes across multiple regions while maintaining the integrity of the blockchain. Increasing the Throughput by factor of O(S) where S is the number of Regions or Shards.
 
 ## ✨ Features
 
@@ -47,8 +43,6 @@ The system is built using a sharded architecture with the following components:
 - Web3 integration for blockchain interaction
 - Real-time updates and result visualization
 
-![Architecture Diagram](docs/images/architecture.png)
-
 ## 🔄 Sharding Explained
 
 ### What is Sharding?
@@ -62,8 +56,6 @@ Sharding is a database partitioning technique that splits a database into smalle
 1. **Region-based Sharding**: Each region operates as an independent shard
 2. **Vote Distribution**: Votes are processed within their respective shards
 3. **Result Aggregation**: The MainAggregator combines results from all shards
-
-![Sharding Diagram](docs/images/sharding.png)
 
 ## 📜 Smart Contracts
 
@@ -90,8 +82,6 @@ The frontend is built using React and includes:
 - **Admin Dashboard**: Comprehensive administration tools
 - **Result Visualization**: Real-time result display
 - **Region Selection**: Easy navigation between regions
-
-![Frontend Screenshots](docs/images/frontend.png)
 
 ## 🖼 Screenshots
 
@@ -167,13 +157,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact
-
-Satkrit - [@your_twitter](https://twitter.com/your_twitter)
 
 Project Link: [https://github.com/Satkrit4/ShardedVotingSystem](https://github.com/Satkrit4/ShardedVotingSystem)
 
