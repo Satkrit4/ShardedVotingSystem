@@ -99,11 +99,11 @@ Below are some UI screenshots of the project:
 
 | Home Page | Region Selection | Results |
 |-----------|------------------|---------|
-| ![Home](docs/images/ui-home.png) | ![Region](docs/images/ui-region.png) | ![Results](docs/images/ui-results.png) |
+| ![Home](voting-dapp/screenshots/Home.png.png) | ![Region](voting-dapp/screenshots/VotingRegion.png.png) | ![Results](voting-dapp/screenshots/Result.png.png) |
 
-| Admin Panel | Election Control |
+| Add Voter | Election Control |
 |-------------|------------------|
-| ![Admin](docs/images/ui-admin.png) | ![Control](docs/images/ui-control.png) |
+| ![Add Voter](voting-dapp/screenshots/AddVoter.png.png) | ![Election Control](voting-dapp/screenshots/ElectionControl.png.png) |
 
 ## 🚀 Setup and Installation
 
